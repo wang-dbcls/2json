@@ -2,7 +2,7 @@
 format conversion to the PubAnnotation JSON
 
 #iob2-format<br>
-Identification  O<br>
+Identification&#9;O<br>
 and <br>
 characterization  O<br>
 of  O<br>
